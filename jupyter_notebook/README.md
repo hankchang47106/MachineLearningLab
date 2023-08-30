@@ -8,8 +8,8 @@
 (base) D:\WorkspaceML\MachineLearningLab\jupyter_notebook> jupyter notebook
 ```
 
-
 ## Sample 1: Python | OpenCV | DeepFace
-參考：https://www.youtube.com/watch?v=fkgpvkqcoJc&list=PL76_bv8CwSXQbmqHA08tsB9-uM9KXG-66&index=4
+Refer: https://www.youtube.com/watch?v=fkgpvkqcoJc&list=PL76_bv8CwSXQbmqHA08tsB9-uM9KXG-66&index=4
 
 ## Sample 2: Python | PyTorch
+Refer: https://www.youtube.com/watch?v=yN7qfBhfGqs&list=PL76_bv8CwSXQbmqHA08tsB9-uM9KXG-66&index=2
